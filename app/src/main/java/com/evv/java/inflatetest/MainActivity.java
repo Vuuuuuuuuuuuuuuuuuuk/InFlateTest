@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
   private FragmentManager fragmentManager;
   private FragmentTransaction fragmentTransaction;
-
+//
   private Fragment1 fragment1;
   private Fragment2 fragment2;
   private FragmentEmpty fragmentE;
